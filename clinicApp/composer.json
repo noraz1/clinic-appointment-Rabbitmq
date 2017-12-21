@@ -1,0 +1,14 @@
+{
+    "name": "jakoa/clinic-app",
+    "description": "Clinik message queue",
+    "type": "project",
+    "require": {
+        "php-amqplib/php-amqplib": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "norazmiradoman",
+            "email": "norazmira1@gmail.com"
+        }
+    ]
+}
